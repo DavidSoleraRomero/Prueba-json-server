@@ -1,0 +1,136 @@
+{
+    "groups": [
+        {
+            "group_id": "a69f5d1b-fc18-4a44-b3d8-81cfc5e648e2",
+            "name": "Los Innovadores"
+        },
+        {
+            "group_id": "51e7cda7-2c03-4d05-92f4-e7db2a1a7a9c",
+            "name": "M\u00fasicos del Mundo"
+        },
+        {
+            "group_id": "dd3e99d6-474c-4794-89f1-9d5426884e80",
+            "name": "Creadoras de Sue\u00f1os"
+        },
+        {
+            "group_id": "9a8f3e2d-fd61-4c7f-831e-3c4b41fbe105",
+            "name": "Guerreros del Futuro"
+        },
+        {
+            "group_id": "2b1b4281-1d2d-4b47-8e87-39cc0df6a33a",
+            "name": "C\u00edrculo de Amigos"
+        },
+        {
+            "group_id": "e0bc5fa4-6b94-4e04-9c8a-e1cc4e495cb0",
+            "name": "Viajeros Sin Fronteras"
+        },
+        {
+            "group_id": "4b4c14ed-8b8e-4b98-9a8a-cc73343d7c0e",
+            "name": "Exploradores de Ideas"
+        },
+        {
+            "group_id": "db1a2b2b-3e69-47e7-8ac4-ec537f4d6e67",
+            "name": "Cazadores de Tesoros"
+        },
+        {
+            "group_id": "5cf90e82-4558-4854-a145-0e526a0f176c",
+            "name": "Artistas en Acci\u00f3n"
+        },
+        {
+            "group_id": "f0d40e79-8c1b-4b77-bf71-334c7b69aef1",
+            "name": "Pioneros de la Innovaci\u00f3n"
+        }
+    ],
+    "persons": [
+        {
+            "id": "ebd2cfe1-2f4a-4f4b-8e0a-90917ed7e542",
+            "name": "Edmund",
+            "surnames": "Eastridge",
+            "email": "eeastridgerq@t-online.de",
+            "gender": "Male",
+            "country_code": "CN",
+            "group_id": "a69f5d1b-fc18-4a44-b3d8-81cfc5e648e2"
+        },
+        {
+            "id": "df2cf9ea-7209-414f-a66a-5b605a92d70f",
+            "name": "Fiona",
+            "surnames": "Parker",
+            "email": "fparker@example.com",
+            "gender": "Female",
+            "country_code": "US",
+            "group_id": "51e7cda7-2c03-4d05-92f4-e7db2a1a7a9c"
+        },
+        {
+            "id": "c8b6775e-2345-4321-8f84-9a155f7353be",
+            "name": "Liam",
+            "surnames": "Johnson",
+            "email": "ljohnson@example.com",
+            "gender": "Male",
+            "country_code": "GB",
+            "group_id": "dd3e99d6-474c-4794-89f1-9d5426884e80"
+        },
+        {
+            "id": "d08ed2a4-1303-41a1-8374-4d872b003204",
+            "name": "Sophia",
+            "surnames": "Taylor",
+            "email": "staylort@example.com",
+            "gender": "Female",
+            "country_code": "CA",
+            "group_id": "9a8f3e2d-fd61-4c7f-831e-3c4b41fbe105"
+        },
+        {
+            "id": "775f6d86-7e3f-4fa4-9258-ec5bb2c4d7de",
+            "name": "Noah",
+            "surnames": "Williams",
+            "email": "nwilliams@example.com",
+            "gender": "Male",
+            "country_code": "AU",
+            "group_id": "2b1b4281-1d2d-4b47-8e87-39cc0df6a33a"
+        },
+        {
+            "id": "c0f63c03-f37f-4576-9334-07cb18eb8f09",
+            "name": "Olivia",
+            "surnames": "Brown",
+            "email": "obrown@example.com",
+            "gender": "Female",
+            "country_code": "NZ",
+            "group_id": "e0bc5fa4-6b94-4e04-9c8a-e1cc4e495cb0"
+        },
+        {
+            "id": "84e7d59c-5791-4fb5-b6a8-bec768ff6b02",
+            "name": "James",
+            "surnames": "Davis",
+            "email": "jdavis@example.com",
+            "gender": "Male",
+            "country_code": "FR",
+            "group_id": "4b4c14ed-8b8e-4b98-9a8a-cc73343d7c0e"
+        },
+        {
+            "id": "2bcd729b-f4c2-4f61-b679-3b28db0aa6f2",
+            "name": "Emma",
+            "surnames": "Miller",
+            "email": "emiller@example.com",
+            "gender": "Female",
+            "country_code": "DE",
+            "group_id": "db1a2b2b-3e69-47e7-8ac4-ec537f4d6e67"
+        },
+        {
+            "id": "22a502e8-e3d0-4944-b44f-b28c65a3d56e",
+            "name": "Lucas",
+            "surnames": "Wilson",
+            "email": "lwilson@example.com",
+            "gender": "Male",
+            "country_code": "IT",
+            "group_id": "5cf90e82-4558-4854-a145-0e526a0f176c"
+        },
+        {
+            "id": "f1c4258e-d837-40a7-b97c-78544c02b4f6",
+            "name": "Ava",
+            "surnames": "Moore",
+            "email": "amoore@example.com",
+            "gender": "Female",
+            "country_code": "ES",
+            "group_id": "f0d40e79-8c1b-4b77-bf71-334c7b69aef1"
+        }
+    ]
+}
