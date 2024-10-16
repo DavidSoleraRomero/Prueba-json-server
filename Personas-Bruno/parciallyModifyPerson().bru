@@ -1,0 +1,17 @@
+meta {
+  name: parciallyModifyPerson()
+  type: http
+  seq: 8
+}
+
+patch {
+  url: http://localhost:3000/persons/dc9ff7a5-702a-48ab-821a-3f71a30795fe
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "name": "Boris"
+  }
+}

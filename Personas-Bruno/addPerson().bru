@@ -1,0 +1,19 @@
+meta {
+  name: addPerson()
+  type: http
+  seq: 5
+}
+
+post {
+  url: http://localhost:3000/persons/
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "id": "dc9ff7a5-702a-48ab-821a-3f71a30795fe",
+    "name": "Eloy",
+    "surnames": "Leiva López"
+  }
+}

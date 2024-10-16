@@ -1,0 +1,16 @@
+meta {
+  name: getPersonsPaginated()
+  type: http
+  seq: 3
+}
+
+get {
+  url: http://localhost:3000/persons/?_page=4&_per_page=50
+  body: none
+  auth: none
+}
+
+params:query {
+  _page: 4
+  _per_page: 50
+}

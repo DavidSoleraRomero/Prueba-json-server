@@ -1,0 +1,18 @@
+meta {
+  name: modifyPerson()
+  type: http
+  seq: 7
+}
+
+put {
+  url: http://localhost:3000/persons/dc9ff7a5-702a-48ab-821a-3f71a30795fe
+  body: json
+  auth: none
+}
+
+body:json {
+  {
+    "name": "David",
+    "surnames": "Solera Romero"
+  }
+}
