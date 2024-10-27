@@ -1,388 +1,252 @@
 {
-    "groups": [
-        {
-            "group_id": "a69f5d1b-fc18-4a44-b3d8-81cfc5e648e2",
-            "name": "Los Innovadores"
-        },
-        {
-            "group_id": "51e7cda7-2c03-4d05-92f4-e7db2a1a7a9c",
-            "name": "M\u00fasicos del Mundo"
-        },
-        {
-            "group_id": "dd3e99d6-474c-4794-89f1-9d5426884e80",
-            "name": "Creadoras de Sue\u00f1os"
-        },
-        {
-            "group_id": "9a8f3e2d-fd61-4c7f-831e-3c4b41fbe105",
-            "name": "Guerreros del Futuro"
-        },
-        {
-            "group_id": "2b1b4281-1d2d-4b47-8e87-39cc0df6a33a",
-            "name": "C\u00edrculo de Amigos"
-        },
-        {
-            "group_id": "e0bc5fa4-6b94-4e04-9c8a-e1cc4e495cb0",
-            "name": "Viajeros Sin Fronteras"
-        },
-        {
-            "group_id": "4b4c14ed-8b8e-4b98-9a8a-cc73343d7c0e",
-            "name": "Exploradores de Ideas"
-        },
-        {
-            "group_id": "db1a2b2b-3e69-47e7-8ac4-ec537f4d6e67",
-            "name": "Cazadores de Tesoros"
-        },
-        {
-            "group_id": "5cf90e82-4558-4854-a145-0e526a0f176c",
-            "name": "Artistas en Acci\u00f3n"
-        },
-        {
-            "group_id": "f0d40e79-8c1b-4b77-bf71-334c7b69aef1",
-            "name": "Pioneros de la Innovaci\u00f3n"
-        }
-    ],
-    "persons": [
-        {
-            "id": "ebd2cfe1-2f4a-4f4b-8e0a-90917ed7e542",
-            "name": "Edmund",
-            "surnames": "Eastridge",
-            "email": "eeastridgerq@t-online.de",
-            "gender": "Male",
-            "country_code": "CN",
-            "group_id": "a69f5d1b-fc18-4a44-b3d8-81cfc5e648e2"
-        },
-        {
-            "id": "df2cf9ea-7209-414f-a66a-5b605a92d70f",
-            "name": "Fiona",
-            "surnames": "Parker",
-            "email": "fparker@example.com",
-            "gender": "Female",
-            "country_code": "US",
-            "group_id": "51e7cda7-2c03-4d05-92f4-e7db2a1a7a9c"
-        },
-        {
-            "id": "c8b6775e-2345-4321-8f84-9a155f7353be",
-            "name": "Liam",
-            "surnames": "Johnson",
-            "email": "ljohnson@example.com",
-            "gender": "Male",
-            "country_code": "GB",
-            "group_id": "dd3e99d6-474c-4794-89f1-9d5426884e80"
-        },
-        {
-            "id": "d08ed2a4-1303-41a1-8374-4d872b003204",
-            "name": "Sophia",
-            "surnames": "Taylor",
-            "email": "staylort@example.com",
-            "gender": "Female",
-            "country_code": "CA",
-            "group_id": "9a8f3e2d-fd61-4c7f-831e-3c4b41fbe105"
-        },
-        {
-            "id": "775f6d86-7e3f-4fa4-9258-ec5bb2c4d7de",
-            "name": "Noah",
-            "surnames": "Williams",
-            "email": "nwilliams@example.com",
-            "gender": "Male",
-            "country_code": "AU",
-            "group_id": "2b1b4281-1d2d-4b47-8e87-39cc0df6a33a"
-        },
-        {
-            "id": "c0f63c03-f37f-4576-9334-07cb18eb8f09",
-            "name": "Olivia",
-            "surnames": "Brown",
-            "email": "obrown@example.com",
-            "gender": "Female",
-            "country_code": "NZ",
-            "group_id": "e0bc5fa4-6b94-4e04-9c8a-e1cc4e495cb0"
-        },
-        {
-            "id": "84e7d59c-5791-4fb5-b6a8-bec768ff6b02",
-            "name": "James",
-            "surnames": "Davis",
-            "email": "jdavis@example.com",
-            "gender": "Male",
-            "country_code": "FR",
-            "group_id": "4b4c14ed-8b8e-4b98-9a8a-cc73343d7c0e"
-        },
-        {
-            "id": "2bcd729b-f4c2-4f61-b679-3b28db0aa6f2",
-            "name": "Emma",
-            "surnames": "Miller",
-            "email": "emiller@example.com",
-            "gender": "Female",
-            "country_code": "DE",
-            "group_id": "db1a2b2b-3e69-47e7-8ac4-ec537f4d6e67"
-        },
-        {
-            "id": "22a502e8-e3d0-4944-b44f-b28c65a3d56e",
-            "name": "Lucas",
-            "surnames": "Wilson",
-            "email": "lwilson@example.com",
-            "gender": "Male",
-            "country_code": "IT",
-            "group_id": "5cf90e82-4558-4854-a145-0e526a0f176c"
-        },
-        {
-            "id": "f1c4258e-d837-40a7-b97c-78544c02b4f6",
-            "name": "Ava",
-            "surnames": "Moore",
-            "email": "amoore@example.com",
-            "gender": "Female",
-            "country_code": "ES",
-            "group_id": "f0d40e79-8c1b-4b77-bf71-334c7b69aef1"
-        },
-        {
-            "id": "7c2e3f95-dcb7-4f5b-b8be-0c0b37f5a61b",
-            "name": "Henry",
-            "surnames": "Evans",
-            "email": "hevans@example.com",
-            "gender": "Male",
-            "country_code": "CN",
-            "group_id": "a69f5d1b-fc18-4a44-b3d8-81cfc5e648e2"
-        },
-        {
-            "id": "58f9a241-38cb-457a-bf46-5c9826a22dcd",
-            "name": "Mia",
-            "surnames": "Baker",
-            "email": "mbaker@example.com",
-            "gender": "Female",
-            "country_code": "US",
-            "group_id": "51e7cda7-2c03-4d05-92f4-e7db2a1a7a9c"
-        },
-        {
-            "id": "bd51b88c-1271-4e9b-8e8b-239b83e7e050",
-            "name": "Eleanor",
-            "surnames": "Murray",
-            "email": "emurray@example.com",
-            "gender": "Female",
-            "country_code": "GB",
-            "group_id": "dd3e99d6-474c-4794-89f1-9d5426884e80"
-        },
-        {
-            "id": "3c5c254a-4e89-45a6-8bde-07d3dcb7dc1d",
-            "name": "Jackson",
-            "surnames": "Wright",
-            "email": "jwright@example.com",
-            "gender": "Male",
-            "country_code": "CA",
-            "group_id": "9a8f3e2d-fd61-4c7f-831e-3c4b41fbe105"
-        },
-        {
-            "id": "f62f2341-571e-4520-84d4-33b90ebeb78c",
-            "name": "Harper",
-            "surnames": "King",
-            "email": "hking@example.com",
-            "gender": "Female",
-            "country_code": "AU",
-            "group_id": "2b1b4281-1d2d-4b47-8e87-39cc0df6a33a"
-        },
-        {
-            "id": "27bb5d70-3bcf-4a38-86a4-f8904ab6d5b3",
-            "name": "Daniel",
-            "surnames": "Clark",
-            "email": "dclark@example.com",
-            "gender": "Male",
-            "country_code": "NZ",
-            "group_id": "e0bc5fa4-6b94-4e04-9c8a-e1cc4e495cb0"
-        },
-        {
-            "id": "a5b5e35f-365d-4dff-888e-fba2ff5b5690",
-            "name": "Charlotte",
-            "surnames": "Scott",
-            "email": "cscott@example.com",
-            "gender": "Female",
-            "country_code": "FR",
-            "group_id": "4b4c14ed-8b8e-4b98-9a8a-cc73343d7c0e"
-        },
-        {
-            "id": "8fd3cdea-f72e-4ff0-878f-63a2b49e0b2d",
-            "name": "Matthew",
-            "surnames": "Mitchell",
-            "email": "mmitchell@example.com",
-            "gender": "Male",
-            "country_code": "DE",
-            "group_id": "db1a2b2b-3e69-47e7-8ac4-ec537f4d6e67"
-        },
-        {
-            "id": "3b99fc3a-297e-4f1e-bdee-6c75051297a4",
-            "name": "Amelia",
-            "surnames": "Perez",
-            "email": "aperez@example.com",
-            "gender": "Female",
-            "country_code": "IT",
-            "group_id": "5cf90e82-4558-4854-a145-0e526a0f176c"
-        },
-        {
-            "id": "3b905df6-709e-4f74-822f-92c8af3f5f84",
-            "name": "Benjamin",
-            "surnames": "White",
-            "email": "bwhite@example.com",
-            "gender": "Male",
-            "country_code": "ES",
-            "group_id": "f0d40e79-8c1b-4b77-bf71-334c7b69aef1"
-        },
-        {
-            "id": "b739f1df-c04f-4e9f-b6d2-4d6fdacde5cb",
-            "name": "Ella",
-            "surnames": "Stewart",
-            "email": "estewart@example.com",
-            "gender": "Female",
-            "country_code": "CN",
-            "group_id": "a69f5d1b-fc18-4a44-b3d8-81cfc5e648e2"
-        },
-        {
-            "id": "47959a7b-e230-43cf-b63e-bc8e8a514a0b",
-            "name": "Alexander",
-            "surnames": "Thompson",
-            "email": "athompson@example.com",
-            "gender": "Male",
-            "country_code": "US",
-            "group_id": "51e7cda7-2c03-4d05-92f4-e7db2a1a7a9c"
-        },
-        {
-            "id": "07d45a32-b481-4875-9960-1d2a434d2714",
-            "name": "Grace",
-            "surnames": "Murphy",
-            "email": "gmurphy@example.com",
-            "gender": "Female",
-            "country_code": "GB",
-            "group_id": "dd3e99d6-474c-4794-89f1-9d5426884e80"
-        },
-        {
-            "id": "9a8f6de6-e303-494b-9f54-cf32dd3fc85d",
-            "name": "David",
-            "surnames": "Harris",
-            "email": "dharris@example.com",
-            "gender": "Male",
-            "country_code": "CA",
-            "group_id": "9a8f3e2d-fd61-4c7f-831e-3c4b41fbe105"
-        },
-        {
-            "id": "c2f29ed4-fc99-47cf-b168-46f7da42eeb9",
-            "name": "Scarlett",
-            "surnames": "Turner",
-            "email": "sturner@example.com",
-            "gender": "Female",
-            "country_code": "AU",
-            "group_id": "2b1b4281-1d2d-4b47-8e87-39cc0df6a33a"
-        },
-        {
-            "id": "0dc03491-2062-4c70-8be6-5b9c7c32c0e1",
-            "name": "Mason",
-            "surnames": "Cooper",
-            "email": "mcooper@example.com",
-            "gender": "Male",
-            "country_code": "NZ",
-            "group_id": "e0bc5fa4-6b94-4e04-9c8a-e1cc4e495cb0"
-        },
-        {
-            "id": "3e2095f2-783f-414a-9ec4-8562e1cb98f2",
-            "name": "Lily",
-            "surnames": "Wood",
-            "email": "lwood@example.com",
-            "gender": "Female",
-            "country_code": "FR",
-            "group_id": "4b4c14ed-8b8e-4b98-9a8a-cc73343d7c0e"
-        },
-        {
-            "id": "c67b209b-8b23-4b94-9281-c9c7b9bb3d44",
-            "name": "Logan",
-            "surnames": "Reed",
-            "email": "lreed@example.com",
-            "gender": "Male",
-            "country_code": "DE",
-            "group_id": "db1a2b2b-3e69-47e7-8ac4-ec537f4d6e67"
-        },
-        {
-            "id": "f337be3a-ea98-43ba-ae61-b1d46d0d8b1b",
-            "name": "Victoria",
-            "surnames": "Walker",
-            "email": "vwalker@example.com",
-            "gender": "Female",
-            "country_code": "IT",
-            "group_id": "5cf90e82-4558-4854-a145-0e526a0f176c"
-        },
-        {
-            "id": "c065de42-dcf0-4cf6-9726-11b3c2ae305f",
-            "name": "Sebastian",
-            "surnames": "Morgan",
-            "email": "smorgan@example.com",
-            "gender": "Male",
-            "country_code": "ES",
-            "group_id": "f0d40e79-8c1b-4b77-bf71-334c7b69aef1"
-        },
-        {
-            "id": "5eab8424-0d6b-4861-849a-df2a0a672027",
-            "name": "Zoe",
-            "surnames": "Young",
-            "email": "zyoung@example.com",
-            "gender": "Female",
-            "country_code": "CN",
-            "group_id": "a69f5d1b-fc18-4a44-b3d8-81cfc5e648e2"
-        },
-        {
-            "id": "fda35af0-c40e-49de-bd6b-186f9bfa63be",
-            "name": "Levi",
-            "surnames": "Allen",
-            "email": "lallen@example.com",
-            "gender": "Male",
-            "country_code": "US",
-            "group_id": "51e7cda7-2c03-4d05-92f4-e7db2a1a7a9c"
-        },
-        {
-            "id": "d212b290-41ab-4e19-9d9c-c95ab58dc734",
-            "name": "Sofia",
-            "surnames": "Hill",
-            "email": "shill@example.com",
-            "gender": "Female",
-            "country_code": "GB",
-            "group_id": "dd3e99d6-474c-4794-89f1-9d5426884e80"
-        },
-        {
-            "id": "3b18c02e-d046-4c68-bc56-c4814511739b",
-            "name": "Luke",
-            "surnames": "Martin",
-            "email": "lmartin@example.com",
-            "gender": "Male",
-            "country_code": "CA",
-            "group_id": "9a8f3e2d-fd61-4c7f-831e-3c4b41fbe105"
-        },
-        {
-            "id": "03ac3676-b87d-4090-832b-ef0338da9e40",
-            "name": "Chloe",
-            "surnames": "Bennett",
-            "email": "cbennett@example.com",
-            "gender": "Female",
-            "country_code": "AU",
-            "group_id": "2b1b4281-1d2d-4b47-8e87-39cc0df6a33a"
-        },
-        {
-            "id": "6c77d1d4-7be2-44d1-abc7-6b9a3abdd9b5",
-            "name": "Samuel",
-            "surnames": "Adams",
-            "email": "sadams@example.com",
-            "gender": "Male",
-            "country_code": "NZ",
-            "group_id": "e0bc5fa4-6b94-4e04-9c8a-e1cc4e495cb0"
-        },
-        {
-            "id": "22a6343a-5190-46b5-9aa4-f9a6c2fd0ba0",
-            "name": "Evelyn",
-            "surnames": "Nelson",
-            "email": "enelson@example.com",
-            "gender": "Female",
-            "country_code": "FR",
-            "group_id": "4b4c14ed-8b8e-4b98-9a8a-cc73343d7c0e"
-        },
-        {
-            "id": "79292f9d-e684-4934-830d-b42f7e94fba3",
-            "name": "Jack",
-            "surnames": "Roberts",
-            "email": "jroberts@example.com",
-            "gender": "Male",
-            "country_code": "DE",
-            "group_id": "db1a2b2b-3e69-47e7-8ac4-ec537f4d6e67"
-        }
-    ]
+  "groups": [
+    {
+      "name": "Los Chokers",
+      "id": "62e0ca6e-8c1d-4d02-8b3d-a103ba3720c2"
+    },
+    {
+      "name": "Músicos del Mundo",
+      "id": "5be51ae1-535a-4f88-8491-5f9f1d9718c1"
+    },
+    {
+      "name": "Creadoras de Sueños Profundos",
+      "id": "a28eaad8-40bf-4ca1-92c3-90018ba2510b"
+    },
+    {
+      "name": "Guerreros del Futuro",
+      "id": "2e998d8b-ed37-44f2-9699-cd815ed7bedc"
+    },
+    {
+      "name": "Círculo de Amigos",
+      "id": "5e55356d-0a40-4a72-ac31-fe21d12b3a7c"
+    },
+    {
+      "name": "Viajeros Sin Fronteras",
+      "id": "23028469-0273-4f6a-95ef-88fc0f3b3930"
+    },
+    {
+      "name": "Exploradores de Ideas",
+      "id": "6a87fbb3-639d-4a39-b8c3-5ae0fbf8dbc8"
+    },
+    {
+      "name": "Cazadores de Tesoros",
+      "id": "9439fc64-664d-4fec-92ca-202909975525"
+    },
+    {
+      "name": "Artistas en Acción",
+      "id": "9f511b15-8d9d-4c9b-9d58-a407c443445a"
+    },
+    {
+      "name": "Pioneros de la Innovación",
+      "id": "bd50b3e9-d701-42c2-b924-d09476509543"
+    },
+    {
+      "id": "6691-0a39-905e-85d1-998be621",
+      "name": "Los Fanáticos de T1"
+    },
+    {
+      "id": "6ee0-5ff2-fc31-443e-888f7e1c",
+      "name": "Grupo de Desolaciones"
+    }
+  ],
+  "persons": [
+    {
+      "id": "ebd2cfe1-2f4a-4f4b-8e0a-90917ed7e542",
+      "name": "Edmund",
+      "surnames": "Eastridge",
+      "email": "eeastridgerq@t-online.de",
+      "gender": "Male",
+      "country_code": "CN",
+      "group_id": "62e0ca6e-8c1d-4d02-8b3d-a103ba3720c2"
+    },
+    {
+      "id": "df2cf9ea-7209-414f-a66a-5b605a92d70f",
+      "name": "Fiona",
+      "surnames": "Parker",
+      "email": "fparker@example.com",
+      "gender": "Female",
+      "country_code": "US",
+      "group_id": "5be51ae1-535a-4f88-8491-5f9f1d9718c1"
+    },
+    {
+      "id": "c8b6775e-2345-4321-8f84-9a155f7353be",
+      "name": "Liam",
+      "surnames": "Johnson",
+      "email": "ljohnson@example.com",
+      "gender": "Male",
+      "country_code": "CA",
+      "group_id": "a28eaad8-40bf-4ca1-92c3-90018ba2510b"
+    },
+    {
+      "id": "15f55c06-e5c2-448e-9db4-c746d63d5893",
+      "name": "Olivia",
+      "surnames": "Taylor",
+      "email": "otaylor@example.com",
+      "gender": "Female",
+      "country_code": "GB",
+      "group_id": "2e998d8b-ed37-44f2-9699-cd815ed7bedc"
+    },
+    {
+      "id": "8e71ed1b-dcb0-4a92-a65b-ecc3bcd0192b",
+      "name": "Noah",
+      "surnames": "Smith",
+      "email": "nsmith@example.com",
+      "gender": "Male",
+      "country_code": "AU",
+      "group_id": "5e55356d-0a40-4a72-ac31-fe21d12b3a7c"
+    },
+    {
+      "id": "f0e98279-18f8-42f3-8661-c2edb440b88d",
+      "name": "Ava",
+      "surnames": "Wilson",
+      "email": "awilson@example.com",
+      "gender": "Female",
+      "country_code": "NZ",
+      "group_id": "23028469-0273-4f6a-95ef-88fc0f3b3930"
+    },
+    {
+      "id": "b8e691e0-d15e-4cc1-b0eb-efbcfb86cd57",
+      "name": "Lucas",
+      "surnames": "Martinez",
+      "email": "lmartinez@example.com",
+      "gender": "Male",
+      "country_code": "ES",
+      "group_id": "6a87fbb3-639d-4a39-b8c3-5ae0fbf8dbc8"
+    },
+    {
+      "id": "f44fa328-4cf4-4c9e-b509-344c50c2be88",
+      "name": "Sophia",
+      "surnames": "Brown",
+      "email": "sbrown@example.com",
+      "gender": "Female",
+      "country_code": "FR",
+      "group_id": "9439fc64-664d-4fec-92ca-202909975525"
+    },
+    {
+      "id": "e5b6d5ab-8b68-4b2b-bd4f-02db9e05b64e",
+      "name": "Mason",
+      "surnames": "Garcia",
+      "email": "mgarcia@example.com",
+      "gender": "Male",
+      "country_code": "IT",
+      "group_id": "9f511b15-8d9d-4c9b-9d58-a407c443445a"
+    },
+    {
+      "id": "9c9e67e6-ff87-4b38-8144-239d1e8dc890",
+      "name": "Isabella",
+      "surnames": "Lopez",
+      "email": "ilopez@example.com",
+      "gender": "Female",
+      "country_code": "BR",
+      "group_id": "bd50b3e9-d701-42c2-b924-d09476509543"
+    },
+    {
+      "id": "c0f05c87-df1d-463f-a965-43e8709c739f",
+      "name": "Ethan",
+      "surnames": "Harris",
+      "email": "eharris@example.com",
+      "gender": "Male",
+      "country_code": "DE",
+      "group_id": "6691-0a39-905e-85d1-998be621"
+    },
+    {
+      "id": "bfe15c8f-202e-4f81-b845-5e32ee46c4a7",
+      "name": "Aiden",
+      "surnames": "Nguyen",
+      "email": "anguyen@example.com",
+      "gender": "Male",
+      "country_code": "JP",
+      "group_id": "62e0ca6e-8c1d-4d02-8b3d-a103ba3720c2"
+    },
+    {
+      "id": "d175f07f-062f-463c-9b26-6e9c56a7a3ef",
+      "name": "Mia",
+      "surnames": "Robinson",
+      "email": "mrobinson@example.com",
+      "gender": "Female",
+      "country_code": "KR",
+      "group_id": "5be51ae1-535a-4f88-8491-5f9f1d9718c1"
+    },
+    {
+      "id": "d575c497-fc61-47ab-82c7-7f00cd1a8e7c",
+      "name": "Oliver",
+      "surnames": "Hall",
+      "email": "ohall@example.com",
+      "gender": "Male",
+      "country_code": "MX",
+      "group_id": "a28eaad8-40bf-4ca1-92c3-90018ba2510b"
+    },
+    {
+      "id": "52c4b0fc-90ec-4fc4-87de-fdb5b229c19b",
+      "name": "Charlotte",
+      "surnames": "Young",
+      "email": "cyoung@example.com",
+      "gender": "Female",
+      "country_code": "SE",
+      "group_id": "2e998d8b-ed37-44f2-9699-cd815ed7bedc"
+    },
+    {
+      "id": "5ed1fbc5-32fc-46aa-aeb4-0b58914c9159",
+      "name": "Elijah",
+      "surnames": "Clark",
+      "email": "eclark@example.com",
+      "gender": "Male",
+      "country_code": "NO",
+      "group_id": "5e55356d-0a40-4a72-ac31-fe21d12b3a7c"
+    },
+    {
+      "id": "7c0c0b08-8f7f-4539-bc70-6b4850fc6f43",
+      "name": "Amelia",
+      "surnames": "Wright",
+      "email": "awright@example.com",
+      "gender": "Female",
+      "country_code": "FI",
+      "group_id": "23028469-0273-4f6a-95ef-88fc0f3b3930"
+    },
+    {
+      "id": "7fbf6e9b-0b58-4e6c-a2fc-e6b674fe6c48",
+      "name": "James",
+      "surnames": "Lee",
+      "email": "jlee@example.com",
+      "gender": "Male",
+      "country_code": "SG",
+      "group_id": "6a87fbb3-639d-4a39-b8c3-5ae0fbf8dbc8"
+    },
+    {
+      "id": "9439fc64-664d-4fec-92ca-202909975525",
+      "name": "Emily",
+      "surnames": "Davis",
+      "email": "edavis@example.com",
+      "gender": "Female",
+      "country_code": "IE",
+      "group_id": "9439fc64-664d-4fec-92ca-202909975525"
+    },
+    {
+      "id": "33a0e84d-bce4-4b34-80d7-b2f631c9265f",
+      "name": "Daniel",
+      "surnames": "Garcia",
+      "email": "dgarcia@example.com",
+      "gender": "Male",
+      "country_code": "AT",
+      "group_id": "6a87fbb3-639d-4a39-b8c3-5ae0fbf8dbc8"
+    },
+    {
+      "id": "e30bde6e-440b-47b8-853e-09dff6b47439",
+      "name": "Grace",
+      "surnames": "Anderson",
+      "email": "ganderson@example.com",
+      "gender": "Female",
+      "country_code": "CH",
+      "group_id": "2e998d8b-ed37-44f2-9699-cd815ed7bedc"
+    },
+    {
+      "id": "731fc12e-1f67-4e05-b320-08eeb6d86c79",
+      "name": "Michael",
+      "surnames": "Roberts",
+      "email": "mroberts@example.com",
+      "gender": "Male",
+      "country_code": "IN",
+      "group_id": "5be51ae1-535a-4f88-8491-5f9f1d9718c1"
+    }
+  ]
 }
